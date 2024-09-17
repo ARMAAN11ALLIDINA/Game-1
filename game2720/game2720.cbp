@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="game2720" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/game2720" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/game2720" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="game.cc" />
+		<Unit filename="include/BaseLocale.h" />
+		<Unit filename="include/BaseZombie.h" />
+		<Unit filename="include/BasicZombie.h" />
+		<Unit filename="include/Bathrooms.h" />
+		<Unit filename="include/BruteZombie.h" />
+		<Unit filename="include/Cafeteria.h" />
+		<Unit filename="include/Character.h" />
+		<Unit filename="include/ClothingStore.h" />
+		<Unit filename="include/ConvienceStore.h" />
+		<Unit filename="include/EntranceHall.h" />
+		<Unit filename="include/FountainPlaza.h" />
+		<Unit filename="include/GameStore.h" />
+		<Unit filename="include/GroceryStore.h" />
+		<Unit filename="include/GunStore.h" />
+		<Unit filename="include/HelpDesk.h" />
+		<Unit filename="include/KitchenStore.h" />
+		<Unit filename="include/Pharmacy.h" />
+		<Unit filename="include/Restaurant.h" />
+		<Unit filename="include/Sculpture.h" />
+		<Unit filename="include/Security.h" />
+		<Unit filename="src/BaseLocale.cc" />
+		<Unit filename="src/BaseZombie.cc" />
+		<Unit filename="src/BasicZombie.cc" />
+		<Unit filename="src/Bathrooms.cc" />
+		<Unit filename="src/BruteZombie.cc" />
+		<Unit filename="src/Cafeteria.cc" />
+		<Unit filename="src/Character.cc" />
+		<Unit filename="src/ClothingStore.cc" />
+		<Unit filename="src/ConvienceStore.cc" />
+		<Unit filename="src/EntranceHall.cc" />
+		<Unit filename="src/FountainPlaza.cc" />
+		<Unit filename="src/GameStore.cc" />
+		<Unit filename="src/GroceryStore.cc" />
+		<Unit filename="src/GunStore.cc" />
+		<Unit filename="src/HelpDesk.cc" />
+		<Unit filename="src/KitchenStore.cc" />
+		<Unit filename="src/Pharmacy.cc" />
+		<Unit filename="src/Restaurant.cc" />
+		<Unit filename="src/Sculpture.cc" />
+		<Unit filename="src/Security.cc" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

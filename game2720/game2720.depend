@@ -1,0 +1,193 @@
+# depslib dependency file v1.0
+1586832096 source:c:\users\arm allidina\documents\new folder\game2720\basezombie.cc
+	"BaseZombie.h"
+
+1586304137 c:\users\arm allidina\documents\new folder\game2720\basezombie.h
+	<iostream>
+	<string>
+	"Character.h"
+
+1586320542 c:\users\arm allidina\documents\new folder\game2720\character.h
+	<iostream>
+	<string>
+
+1586832439 source:c:\users\arm allidina\documents\new folder\game2720\character.cc
+	"Character.h"
+	<iostream>
+	<string>
+
+1586828496 source:c:\users\arm allidina\documents\game2720\basezombie.cc
+	"BaseZombie.h"
+
+1586300537 c:\users\arm allidina\documents\game2720\basezombie.h
+	<iostream>
+	<string>
+	"Character.h"
+
+1586316942 c:\users\arm allidina\documents\game2720\character.h
+	<iostream>
+	<string>
+
+1586828839 source:c:\users\arm allidina\documents\game2720\character.cc
+	"Character.h"
+	<iostream>
+	<string>
+
+1674261929 source:c:\users\arm allidina\documents\game2720\src\basezombie.cc
+	"../include/BaseZombie.h"
+
+1713064058 c:\users\arm allidina\documents\game2720\include\basezombie.h
+	<iostream>
+	<string>
+	"./Character.h"
+
+1586320542 c:\users\arm allidina\documents\game2720\include\character.h
+	<iostream>
+	<string>
+
+1713065121 source:c:\users\arm allidina\documents\game2720\src\character.cc
+	"../include/Character.h"
+	<iostream>
+	<string>
+
+1674261929 source:c:\users\arm allidina\documents\game2720\src\baselocale.cc
+	"../include/BaseLocale.h"
+
+1677889794 c:\users\arm allidina\documents\game2720\include\baselocale.h
+	<string>
+	<iostream>
+	"./BasicZombie.h"
+	"./BruteZombie.h"
+
+1713064092 c:\users\arm allidina\documents\game2720\include\basiczombie.h
+	<./BaseZombie.h>
+
+1713064190 c:\users\arm allidina\documents\game2720\include\brutezombie.h
+	<./BaseZombie.h>
+
+1674261929 source:c:\users\arm allidina\documents\game2720\src\basiczombie.cc
+	<../include/BasicZombie.h>
+
+1674261929 source:c:\users\arm allidina\documents\game2720\src\brutezombie.cc
+	"../include/BruteZombie.h"
+
+1674261929 source:c:\users\arm allidina\documents\game2720\src\cafeteria.cc
+	"../include/Cafeteria.h"
+	"../include/BaseLocale.h"
+	<bits/stdc++.h>
+	<string>
+
+1713064218 c:\users\arm allidina\documents\game2720\include\cafeteria.h
+	<./BaseLocale.h>
+
+1674261929 source:c:\users\arm allidina\documents\game2720\src\clothingstore.cc
+	"../include/ClothingStore.h"
+	"../include/BaseLocale.h"
+	<bits/stdc++.h>
+	<string>
+
+1677889875 c:\users\arm allidina\documents\game2720\include\clothingstore.h
+	<./BaseLocale.h>
+
+1674261929 source:c:\users\arm allidina\documents\game2720\src\entrancehall.cc
+	"../include/EntranceHall.h"
+	"../include/BaseLocale.h"
+	<bits/stdc++.h>
+	<string>
+
+1713064306 c:\users\arm allidina\documents\game2720\include\entrancehall.h
+	<./BaseLocale.h>
+
+1674262020 source:c:\users\arm allidina\documents\game2720\src\gamestore.cc
+	"../include/GameStore.h"
+	"../include/BaseLocale.h"
+	"../include/BasicZombie.h"
+	<bits/stdc++.h>
+	<string>
+
+1713064494 c:\users\arm allidina\documents\game2720\include\gamestore.h
+	<./BaseLocale.h>
+	"./Character.h"
+	"./BasicZombie.h"
+
+1674262020 source:c:\users\arm allidina\documents\game2720\src\gunstore.cc
+	"../include/GunStore.h"
+	"../include/BaseLocale.h"
+	<bits/stdc++.h>
+	<string>
+
+1713064560 c:\users\arm allidina\documents\game2720\include\gunstore.h
+	<./BaseLocale.h>
+
+1674262020 source:c:\users\arm allidina\documents\game2720\src\helpdesk.cc
+	"../include/HelpDesk.h"
+	"../include/BaseLocale.h"
+	<bits/stdc++.h>
+	<string>
+
+1713064585 c:\users\arm allidina\documents\game2720\include\helpdesk.h
+	<./BaseLocale.h>
+
+1674262020 source:c:\users\arm allidina\documents\game2720\src\kitchenstore.cc
+	"../include/KitchenStore.h"
+	"../include/BaseLocale.h"
+	<bits/stdc++.h>
+	<string>
+
+1713064622 c:\users\arm allidina\documents\game2720\include\kitchenstore.h
+	<./BaseLocale.h>
+
+1674262020 source:c:\users\arm allidina\documents\game2720\src\pharmacy.cc
+	"../include/Pharmacy.h"
+	"../include/BaseLocale.h"
+	<bits/stdc++.h>
+	<string>
+
+1713064642 c:\users\arm allidina\documents\game2720\include\pharmacy.h
+	<./BaseLocale.h>
+
+1674262021 source:c:\users\arm allidina\documents\game2720\src\restaurant.cc
+	"../include/Restaurant.h"
+	"../include/BaseLocale.h"
+	<bits/stdc++.h>
+	<string>
+
+1713064663 c:\users\arm allidina\documents\game2720\include\restaurant.h
+	<./BaseLocale.h>
+
+1674262021 source:c:\users\arm allidina\documents\game2720\src\sculpture.cc
+	"../include/Sculpture.h"
+	"../include/BaseLocale.h"
+	<bits/stdc++.h>
+	<string>
+
+1713064689 c:\users\arm allidina\documents\game2720\include\sculpture.h
+	<./BaseLocale.h>
+
+1674262021 source:c:\users\arm allidina\documents\game2720\src\security.cc
+	"../include/Security.h"
+	"../include/BaseLocale.h"
+	<bits/stdc++.h>
+	<string>
+
+1713064707 c:\users\arm allidina\documents\game2720\include\security.h
+	<./BaseLocale.h>
+
+1716848987 source:c:\users\arm allidina\documents\game2720\src\fountainplaza.cc
+	"../include/FountainPlaza.h"
+	"../include/BaseLocale.h"
+	<bits/stdc++.h>
+	<string>
+
+1713064490 c:\users\arm allidina\documents\game2720\include\fountainplaza.h
+	<BaseLocale.h>
+
+1716848987 source:c:\users\arm allidina\documents\game2720\src\grocerystore.cc
+	"../include/GroceryStore.h"
+	"../include/BaseLocale.h"
+	<bits/stdc++.h>
+	<string>
+
+1713064537 c:\users\arm allidina\documents\game2720\include\grocerystore.h
+	<./BaseLocale.h>
+
